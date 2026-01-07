@@ -1,0 +1,7 @@
+{
+  "name": "Gemini 繁體中文逐字稿助手",
+  "description": "這是一個專業的語音轉文字工具，使用 Gemini 3 Flash 模型進行高精度的逐字稿生成。支援音檔自動分割處理、說話者識別與時間戳標記，並產出精美的繁體中文格式。",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
